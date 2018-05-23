@@ -2,7 +2,7 @@
 
 ## App made in React
 
-## User login/register not working yet! Just click "zaloguj" to use app!
+## User login/registration not working yet! Just click "zaloguj" to use app!
 
 ### Functionality:
 
