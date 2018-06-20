@@ -1,18 +1,15 @@
-import React from 'react';
+import React from "react";
 
-const Rank = ({name, entries}) => {
-    return (
-        <div>
-            <div className='white f3'>
-            {name}{', masz tyle punktow:'} 
-
-            </div>
-            <div className='white f1'>
-                {entries}
-
-            </div>
-        </div>
-    );
-}
+const Rank = ({ name, entries }) => {
+  return (
+    <div>
+      <div className="white f3">
+        {name}
+        {", ilość wyszukanych przez Ciebie twarzy to:"}
+      </div>
+      <div className="white f1">{entries}</div>
+    </div>
+  );
+};
 
 export default Rank;
