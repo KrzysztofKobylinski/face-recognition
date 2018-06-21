@@ -1,8 +1,8 @@
-# Face-recognition App https://facerecognitionkszysieg.herokuapp.com/
+# Face-recognition App 
+
+## Try it: https://dry-shelf-75722.herokuapp.com/
 
 ## App made in React
-
-## User login/registration not working yet! Just click "zaloguj" to use app!
 
 ### Functionality:
 
